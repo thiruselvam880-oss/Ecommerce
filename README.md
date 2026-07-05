@@ -9,17 +9,7 @@ A production-grade full-stack e-commerce application built with **Spring Boot** 
 > Backend runs on `http://localhost:8082`  
 > Frontend — open `index.html` in any browser or serve with Live Server
 
----
 
-## 📸 Screenshots
-
-| Home — Product Listing | Cart | Admin — Manage Products |
-|---|---|---|
-| ![home](screenshots/home.png) | ![cart](screenshots/cart.png) | ![admin](screenshots/admin.png) |
-
-> Add your own screenshots to a `/screenshots` folder in the repo root.
-
----
 
 ## ✨ Features
 
@@ -261,9 +251,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Your Name**  
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+THIRU SELVAM T  
+📧 thiruselvam880@gmail.com 
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/thiru-selvam-999826258/))  
 🐙 [GitHub](https://github.com/your-username)
 
 ---
